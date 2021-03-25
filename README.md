@@ -2,7 +2,9 @@
 En este repositorio podras encontrar el material del curso de Ciencia de Datos e Inteligencia de Negocios (CDIN) para el periodo de primavera del 2021.
 
 Este curso está dividido en cuatro módulos. 
+
 `Introducción.` **Repaso de Librerías Numpy, Pandas.**
+
     1. Lenguaje de Programación del Curso.
     2. Repaso librería Numpy.
     3. Repaso librería Pandas.
@@ -11,6 +13,7 @@ Este curso está dividido en cuatro módulos.
     5.- Definiciones.
     
 `Módulo 1.` **Minería de Datos: Datos y su clasificación.**
+
     1. Datos y su Clasificación.
     2. Análisis Exploratorio de Datos (EDA).
     3. Reporte de Calidad de Datos (DQR).
@@ -19,6 +22,7 @@ Este curso está dividido en cuatro módulos.
     - Tarea 2.
 
 `Módulo 2.` **Preprocesamiento de Datos y Aprendizaje no Supervizado.**
+
     1. Integración de datos.
     2. ¿Qué es el Aprendizaje Automático?
     3. Aprendizaje no Supervizado para Ciencia de Datos
@@ -27,6 +31,7 @@ Este curso está dividido en cuatro módulos.
     - Tarea 3.
     
 `Módulo 3.` **Aprendizaje Supervizado en Ciencia de Datos.**
+
     1. Análisis de Discriminantes Lineales.
     2. Regresión Logística.
     3. Máquina de Vector Soporte (SVM)
