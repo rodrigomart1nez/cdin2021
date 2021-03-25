@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar  1 09:48:49 2021
+
+@author: gaddiel
+"""
+
+import pandas as pd
+import numpy as np
+from CDIN import CDIN as cd
+
+dirty_data = pd.read_csv('../Data/dirty_data.csv')
+
+dirty_data_people = dirty_data.people.apply(cd.remove_punctuation).apply(cd.uppercase_text)
+
